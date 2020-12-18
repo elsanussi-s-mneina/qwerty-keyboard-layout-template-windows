@@ -1,0 +1,8 @@
+2020-12-17, 
+Create a keyboard with QWERTY but only lowercase letters.
+
+2020-12-17, 
+Implement shift.
+
+2020-12-17, (acute-vowels-on-option branch) 
+Add ability to type the characters a,o,e,u,i,y but with the acute diacritic.
